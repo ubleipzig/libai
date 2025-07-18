@@ -17,6 +17,7 @@ scientific libraries).
 
 Groups applications into: KI-Unterstützung für die Arbeitsorganisation, KI für die interne Anwendung in Bibliotheken, KI-Anwendungen für Bibliotheksdienstleistungen
 
+* [Generic list of LLM apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
 ## Publications
 
@@ -25,7 +26,7 @@ Groups applications into: KI-Unterstützung für die Arbeitsorganisation, KI fü
 Categorizes AI tools: Assistants, Analysis, Search helpers, Literature Management
 
 
-## Applications
+## Research related services and applications
 
 These are applications mentioned in various publications and meta lists.
 
@@ -52,3 +53,17 @@ These are applications mentioned in various publications and meta lists.
 * [Coordination Network](https://www.coordination.network/)
 * [Google Gemini](https://gemini.google.com/)
 * [Huggingface Chat](https://huggingface.co/chat/)
+
+## Local Desktop Applications
+
+These may have RAG and MCP capabilities, can often be used with any model
+(local, remote, free, proprietary, ...).
+
+* [ChatBox](https://chatboxai.app/en)
+* [GPT4ALL](https://www.nomic.ai/gpt4all) ([$17M](https://www.reuters.com/technology/open-source-ai-model-creator-nomic-raises-17-million-led-by-coatue-2023-07-13/), ...)
+* [ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/)
+* [AnythingLLM](https://anythingllm.com/desktop), [GitHub](https://github.com/Mintplex-Labs/anything-llm), [YCS22](https://www.ycombinator.com/companies/mintplex-labs)
+* [LMStudio](https://lmstudio.ai/)
+* [Cherry Studio](https://github.com/CherryHQ/cherry-studio), [Site](https://www.cherry-ai.com/)
+
+
