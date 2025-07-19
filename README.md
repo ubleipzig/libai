@@ -18,6 +18,7 @@ scientific libraries).
 Groups applications into: KI-Unterstützung für die Arbeitsorganisation, KI für die interne Anwendung in Bibliotheken, KI-Anwendungen für Bibliotheksdienstleistungen
 
 * [Generic list of LLM apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+* [Another generic list](https://github.com/mahseema/awesome-ai-tools)
 
 ## Publications
 
