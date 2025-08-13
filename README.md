@@ -30,11 +30,15 @@ Groups applications into: KI-Unterstützung für die Arbeitsorganisation, KI fü
 * [Generic list of LLM apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 * [Another generic list](https://github.com/mahseema/awesome-ai-tools)
 
-## Publications
+## Publications, Articles and more
 
 * [Einsatz von Künstlicher Intelligenz bei der wissenschaftlichen Literaturrecherche: ein Überblick](https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/index/index/docId/113159) ([PDF](https://opus.bibliothek.uni-augsburg.de/opus4/files/113159/113159.pdf)), UB Augsburg, 2024-06-04
 
 Categorizes AI tools: Assistants, Analysis, Search helpers, Literature Management
+
+* [AI-powered cataloging](https://alastore.ala.org/AIcat) (book, Fall 2025)
+* [Custom AI tools for cataloguing!](https://librariesresearchgroup.csu.domains/blog/2024/10/14/custom-ai-tools-for-cataloguing/) (2024)
+* [Exploring the Future of Library Cataloging with AI and Multilingual Embeddings](https://digitalorientalist.com/2025/05/09/exploring-the-future-of-library-cataloging-with-ai-and-multilingual-embeddings/)
 
 ## Research related services and applications
 
@@ -64,7 +68,7 @@ These are applications mentioned in various publications and meta lists.
 * [Google Gemini](https://gemini.google.com/)
 * [Huggingface Chat](https://huggingface.co/chat/)
 
-## Local Desktop Applications
+## Local Desktop and Web Applications
 
 These may have RAG and MCP capabilities, can often be used with any model
 (local, remote, free, proprietary, ...).
@@ -75,6 +79,7 @@ These may have RAG and MCP capabilities, can often be used with any model
 * [AnythingLLM](https://anythingllm.com/desktop), [GitHub](https://github.com/Mintplex-Labs/anything-llm), [YCS22](https://www.ycombinator.com/companies/mintplex-labs)
 * [LMStudio](https://lmstudio.ai/)
 * [Cherry Studio](https://github.com/CherryHQ/cherry-studio), [Site](https://www.cherry-ai.com/)
+* [LocalAI](https://localai.io/)
 
 
 ## Generic Web Interfaces
@@ -92,10 +97,22 @@ These may have RAG and MCP capabilities, can often be used with any model
 * [Qwen](https://chat.qwen.ai/)
 * [Kimi](https://www.kimi.com/)
 
+### Automation
 
+* [n8n](https://n8n.io/)
+* [ucl.dev](https://ucl.dev/)
+
+
+### Software development
+
+* [Claude Code](https://www.anthropic.com/claude-code)
+* [opencode](https://opencode.ai/)
+* [Gemini cli](https://github.com/google-gemini/gemini-cli)
+* [OpenAI codex cli](https://github.com/openai/codex)
 
 ## References
 
 * [Ernst, L. (2025). Bibliotheken im Zeitalter von Künstlicher Intelligenz.](https://edoc.hu-berlin.de/server/api/core/bitstreams/41c31a7a-765c-46fe-86f8-6e5383d3349b/content)
 * [da Silva Cardoso, H., Kusser, N., & Kieselstein, J. (2024). Einsatz von Künstlicher Intelligenz bei der wissenschaftlichen Literaturrecherche: ein Überblick.](https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/index/index/docId/113159)
 * [Walder, A. (2025). Künstliche Intelligenz in der Literaturrecherche. Bibliothek Forschung und Praxis, 49(1), 109-120.](https://www.degruyterbrill.com/document/doi/10.1515/bfp-2024-0063/pdf)
+
