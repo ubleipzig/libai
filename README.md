@@ -1,11 +1,21 @@
-# Libraries x Artificial Intelligence
+# Libraries and Artificial Intelligence
 
 Artificial Intelligence (AI) is a broad term, covering a vast area of subfields
 (cf. [Difference between AI and
 ML](https://ai.stackexchange.com/questions/35/what-is-the-difference-between-artificial-intelligence-and-machine-learning)).
 This repository tries to collect various tools, applications, publications and
-other resources related to AI and relevant for libraries (with a focus on
-scientific libraries).
+other resources related to AI and relevant in a wide sense for libraries --
+with a focus on scientific libraries (in 2023/24 there were
+[114](https://edoc.hu-berlin.de/server/api/core/bitstreams/41c31a7a-765c-46fe-86f8-6e5383d3349b/content#page=25)
+university libraries in Germany)
+
+## Categories
+
+There are a few main categories for use of AI in libraries:
+
+* KI zur internen Arbeitsunterstützung
+* KI als Unterstützung der Bibliotheksnutzenden und
+* Vermittlung von KI-Kompetenzen (KI Literacy) -- [STRATEGISCHE AUSEINANDERSETZUNG MIT KI AN UND ZWISCHEN UNIVERSITÄTSBIBLIOTHEKEN IN DEUTSCHLAND](https://edoc.hu-berlin.de/server/api/core/bitstreams/41c31a7a-765c-46fe-86f8-6e5383d3349b/content#page=17) (2025)
 
 ## List of Lists of Tools
 
@@ -25,7 +35,6 @@ Groups applications into: KI-Unterstützung für die Arbeitsorganisation, KI fü
 * [Einsatz von Künstlicher Intelligenz bei der wissenschaftlichen Literaturrecherche: ein Überblick](https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/index/index/docId/113159) ([PDF](https://opus.bibliothek.uni-augsburg.de/opus4/files/113159/113159.pdf)), UB Augsburg, 2024-06-04
 
 Categorizes AI tools: Assistants, Analysis, Search helpers, Literature Management
-
 
 ## Research related services and applications
 
@@ -66,5 +75,21 @@ These may have RAG and MCP capabilities, can often be used with any model
 * [AnythingLLM](https://anythingllm.com/desktop), [GitHub](https://github.com/Mintplex-Labs/anything-llm), [YCS22](https://www.ycombinator.com/companies/mintplex-labs)
 * [LMStudio](https://lmstudio.ai/)
 * [Cherry Studio](https://github.com/CherryHQ/cherry-studio), [Site](https://www.cherry-ai.com/)
+
+
+## Generic Web Interfaces
+
+### Chatbots
+
+* [ChatGPT](https://chatgpt.com/)
+* [Claude](https://claude.ai)
+* [Mistral](https://mistral.ai/)
+* [Google Gemini](https://gemini.google.com/)
+* [Perplexity](https://www.perplexity.ai/)
+* [Grok](https://grok.com/)
+* [Meta.ai](https://www.meta.ai/)
+* [DeepSeek](https://chat.deepseek.com)
+* [Qwen](https://chat.qwen.ai/)
+* [Kimi](https://www.kimi.com/)
 
 
