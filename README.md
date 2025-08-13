@@ -13,9 +13,9 @@ university libraries in Germany)
 
 There are a few main categories for use of AI in libraries:
 
-* KI zur internen Arbeitsunterstützung
-* KI als Unterstützung der Bibliotheksnutzenden und
-* Vermittlung von KI-Kompetenzen (KI Literacy) -- [STRATEGISCHE AUSEINANDERSETZUNG MIT KI AN UND ZWISCHEN UNIVERSITÄTSBIBLIOTHEKEN IN DEUTSCHLAND](https://edoc.hu-berlin.de/server/api/core/bitstreams/41c31a7a-765c-46fe-86f8-6e5383d3349b/content#page=17) (2025)
+> * KI zur internen Arbeitsunterstützung
+> * KI als Unterstützung der Bibliotheksnutzenden und
+> * Vermittlung von KI-Kompetenzen (KI Literacy) -- [STRATEGISCHE AUSEINANDERSETZUNG MIT KI AN UND ZWISCHEN UNIVERSITÄTSBIBLIOTHEKEN IN DEUTSCHLAND](https://edoc.hu-berlin.de/server/api/core/bitstreams/41c31a7a-765c-46fe-86f8-6e5383d3349b/content#page=17) (2025)
 
 ## List of Lists of Tools
 
@@ -92,4 +92,9 @@ These may have RAG and MCP capabilities, can often be used with any model
 * [Qwen](https://chat.qwen.ai/)
 * [Kimi](https://www.kimi.com/)
 
+
+
+## References
+
+* [Ernst, L. (2025). Bibliotheken im Zeitalter von Künstlicher Intelligenz.](https://edoc.hu-berlin.de/server/api/core/bitstreams/41c31a7a-765c-46fe-86f8-6e5383d3349b/content)
 
