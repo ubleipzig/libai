@@ -97,4 +97,4 @@ These may have RAG and MCP capabilities, can often be used with any model
 ## References
 
 * [Ernst, L. (2025). Bibliotheken im Zeitalter von Künstlicher Intelligenz.](https://edoc.hu-berlin.de/server/api/core/bitstreams/41c31a7a-765c-46fe-86f8-6e5383d3349b/content)
-
+* [da Silva Cardoso, H., Kusser, N., & Kieselstein, J. (2024). Einsatz von Künstlicher Intelligenz bei der wissenschaftlichen Literaturrecherche: ein Überblick.](https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/index/index/docId/113159)
