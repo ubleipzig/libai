@@ -91,6 +91,7 @@ These may have RAG and MCP capabilities, can often be used with any model
 * [LMStudio](https://lmstudio.ai/)
 * [Cherry Studio](https://github.com/CherryHQ/cherry-studio), [Site](https://www.cherry-ai.com/)
 * [LocalAI](https://localai.io/)
+* [PyGPT, Personal AI Assistant](https://pygpt.net/)
 
 
 ## Generic Web Interfaces
