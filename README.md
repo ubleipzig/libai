@@ -119,9 +119,13 @@ These may have RAG and MCP capabilities, can often be used with any model
 ### Software development
 
 * [Claude Code](https://www.anthropic.com/claude-code)
-* [opencode](https://opencode.ai/)
 * [Gemini cli](https://github.com/google-gemini/gemini-cli)
 * [OpenAI codex cli](https://github.com/openai/codex)
+
+Open source:
+
+* [opencode](https://opencode.ai/)
+* [crush](https://github.com/charmbracelet/crush) -- [demo](https://golangleipzig.space/images/2025-10-09-crush-hello.gif) with open source/local models only
 
 ### Audio
 
