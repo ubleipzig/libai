@@ -131,6 +131,10 @@ Open source:
 
 * [NotebookLM](https://notebooklm.google/)
 
+### Misc
+
+* [The AI for Education project (AI4ED)](https://github.com/nikbearbrown/AI4ED) ("How Gen AI Can Help with Teaching")
+
 ## References
 
 * [Ernst, L. (2025). Bibliotheken im Zeitalter von Künstlicher Intelligenz.](https://edoc.hu-berlin.de/server/api/core/bitstreams/41c31a7a-765c-46fe-86f8-6e5383d3349b/content)
