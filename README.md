@@ -122,11 +122,12 @@ These may have RAG and MCP capabilities, can often be used with any model
 * [Claude Code](https://www.anthropic.com/claude-code)
 * [Gemini cli](https://github.com/google-gemini/gemini-cli)
 * [OpenAI codex cli](https://github.com/openai/codex)
-
-Open source:
-
 * [opencode](https://opencode.ai/)
 * [crush](https://github.com/charmbracelet/crush) -- [demo](https://golangleipzig.space/images/2025-10-09-crush-hello.gif) with open source/local models only
+* [Roocode](https://roocode.com/)
+* [Cursor](https://cursor.com/)
+* [Warp](https://www.warp.dev/coding)
+* [Qwen-Code](https://github.com/QwenLM/qwen-code)
 
 ### Audio
 
