@@ -128,6 +128,10 @@ These may have RAG and MCP capabilities, can often be used with any model
 * [Cursor](https://cursor.com/)
 * [Warp](https://www.warp.dev/coding)
 * [Qwen-Code](https://github.com/QwenLM/qwen-code)
+* [Kilocode](https://kilocode.ai/)
+* [cline](https://cline.bot/)
+
+A review of some tools in 10/2025: [localllama/1o77ag4](http://web.archive.org/web/20251114104658/https://old.reddit.com/r/LocalLLaMA/comments/1o77ag4/a_guide_to_the_best_agentic_tools_and_the_best/)
 
 ### Audio
 
