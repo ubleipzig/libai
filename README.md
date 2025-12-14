@@ -110,6 +110,7 @@ These may have RAG and MCP capabilities, can often be used with any model
 * [DeepSeek](https://chat.deepseek.com)
 * [Qwen](https://chat.qwen.ai/)
 * [Kimi](https://www.kimi.com/)
+* [GLM](https://chat.z.ai/)
 
 ### Automation
 
@@ -130,12 +131,15 @@ These may have RAG and MCP capabilities, can often be used with any model
 * [Qwen-Code](https://github.com/QwenLM/qwen-code)
 * [Kilocode](https://kilocode.ai/)
 * [cline](https://cline.bot/)
+* [Goose](https://github.com/block/goose)
+* [Void IDE](https://voideditor.com/) ([GH](https://github.com/voideditor/void))
 
 A review of some tools in 10/2025: [localllama/1o77ag4](http://web.archive.org/web/20251114104658/https://old.reddit.com/r/LocalLLaMA/comments/1o77ag4/a_guide_to_the_best_agentic_tools_and_the_best/)
 
 ### Audio
 
 * [NotebookLM](https://notebooklm.google/)
+* [open-notebook](https://github.com/lfnovo/open-notebook)
 
 ### Misc
 
